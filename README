@@ -1,4 +1,4 @@
-keem Jones 
+Hakeem Jones 
 
 Derived sprites, twoWaySprites, multiSprite from Drawable
 used flyweight pattern frameFactory to manage frames for sprites 
