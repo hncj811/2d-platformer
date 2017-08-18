@@ -1,0 +1,181 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<screenTitle>Hakeem's stuff</screenTitle>
+<maxStringSize>50</maxStringSize>
+
+<frameCap>60</frameCap>
+<framesAreCapped>true</framesAreCapped>
+<frameMax>300</frameMax>
+<username>hakeemj</username>
+
+<view>
+  <width>1280</width>
+  <height>720</height>
+</view>
+
+<world>
+  <width>1620</width>
+  <height>866</height>
+</world>
+
+<clock>
+  <locX>10</locX>
+  <locY>10</locY>
+</clock>
+
+
+<back>
+  <file>images/redSky.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>1</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1347</width>
+  <height>720</height>
+  <transparency>false</transparency>
+</back>
+
+<grass>
+  <file>images/grass.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>1</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1620</width>
+  <height>866</height>
+  <transparency>false</transparency>
+</grass>
+
+<hills>
+  <file>images/hills.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>2</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1620</width>
+  <height>866</height>
+  <transparency>false</transparency>
+</hills>
+
+<clouds>
+  <file>images/Clouds.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>4</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1620</width>
+  <height>866</height>
+  <transparency>false</transparency>
+</clouds>
+
+<sky>
+  <file>images/sky.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>8</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1620</width>
+  <height>866</height>
+  <transparency>false</transparency>
+</sky>
+
+<font name="font">
+  <file>font/dyslexic-bold.otf</file>
+  <size>16</size>
+  <red>255</red>
+  <green>255</green>
+  <blue>0</blue>
+  <unused>0</unused>
+</font>
+
+<spinstar>
+  <file>images/spinstar.png</file>
+  <startLoc x="120" y="640"/>
+
+  <frames>4</frames>
+  <frameInterval>20</frameInterval>
+
+  <srcX>100</srcX>
+  <srcY>0</srcY>
+  <width>32</width>
+  <height>32</height>
+  <speedX>-200</speedX>
+  <speedY>200</speedY>
+  <transparency>true</transparency>
+</spinstar>
+
+<tiger>
+  <file>images/tigerRight.png</file>
+  <startLoc x="120" y="540"/>
+
+  <frames>6</frames>
+  <frameInterval>200</frameInterval>
+
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>272</width>
+  <height>120</height>
+  <speedX>0</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</tiger>
+
+<tigerLeft>
+  <file>images/tigerL333.png</file>
+  <startLoc x="120" y="140"/>
+
+  <frames>6</frames>
+  <frameInterval>200</frameInterval>
+
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>272</width>
+  <height>120</height>
+  <speedX>-200</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</tigerLeft>
+
+<crow>
+  <file>images/crowR2.png</file>
+  
+  <frames>6</frames>
+  <frameInterval>200</frameInterval>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>43</width>
+  <height>56</height>
+  <startLoc x="320" y="140"/>
+  <speedX>175</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</crow>
+
+<crowLeft>
+  <file>images/crowL2.png</file>
+  
+  <frames>6</frames>
+  <frameInterval>200</frameInterval>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>43</width>
+  <height>56</height>
+  <startLoc x="320" y="140"/>
+  <speedX>-175</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</crowLeft>
+
+</GameData>

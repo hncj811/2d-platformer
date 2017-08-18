@@ -1,0 +1,27 @@
+Hakeem Jones 
+Proj 6
+Parallax scrolling ect
+12/7/2015
+
+Derived sprites, twoWaySprites, multiSprite from Drawable
+used flyweight pattern frameFactory to manage frames for sprites 
+
+Added toggleble Menu
+Added player class (control and bounds)
+Added parallax scrolling
+
+Want to make a 2d platformer -ish game 
+Didn't think to far about a story line 
+but I want to get a couple enemies and hop over an obstacle or 2 
+need to figure how to do the infinite scrolling 
+
+
+Mad tiger sprite from "knights of the round" ( Arcade)
+Ripped by Grim Spritedatabase.net
+Crow ripped from spritedatabase.netcd 
+
+Added Multi frame background
+Must play on God Mode CPU is to strong
+Added painter's algorithm
+Timed explosions (4secs after collision) 
+
