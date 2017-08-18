@@ -1,7 +1,4 @@
-Hakeem Jones 
-Proj 6
-Parallax scrolling ect
-12/7/2015
+keem Jones 
 
 Derived sprites, twoWaySprites, multiSprite from Drawable
 used flyweight pattern frameFactory to manage frames for sprites 
@@ -21,7 +18,9 @@ Ripped by Grim Spritedatabase.net
 Crow ripped from spritedatabase.netcd 
 
 Added Multi frame background
-Must play on God Mode CPU is to strong
+seams from this make game appear slightly glitchy 
+Must play on God Mode to reach end, AI is too strong
 Added painter's algorithm
 Timed explosions (4secs after collision) 
+
 
